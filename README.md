@@ -92,20 +92,6 @@ Perfect for privacy advocates, journalists, whistleblowers, developers, and anyo
 
 ---
 
-## Technology Stack
-
-| Layer | Technology |
-|-------|------------|
-| **Frontend** | React 18, Vite, Tailwind CSS, Framer Motion |
-| **Backend** | Python, FastAPI, SQLAlchemy, asyncio |
-| **Email** | SMTP server (aiosmtpd) for receiving, smtplib for sending |
-| **Database** | PostgreSQL / SQLite |
-| **Auth** | 32-char access codes, bcrypt hashing, JWT tokens |
-| **Infrastructure** | Docker, Nginx (HTTP/2, TLS 1.3, HSTS), Let's Encrypt |
-| **PWA** | Service Worker, Web Push API, manifest.json |
-| **SEO** | IndexNow, llms.txt, Schema.org, 13-lang sitemap |
-
----
 
 ## Blog — Email Privacy Guides
 
